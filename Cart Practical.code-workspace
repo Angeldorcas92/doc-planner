@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Cart Practical"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DOC p;lanner new"
+	}
+}
